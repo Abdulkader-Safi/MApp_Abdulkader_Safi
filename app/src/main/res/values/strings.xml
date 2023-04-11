@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MApp_Abdulkader_Safi</string>
+    <string name="btn_Click">Click Here!</string>
+    <string name="First_Name_Hint">Type your first name!</string>
+    <string name="Last_Name_hint">Type your Last name!</string>
+    <string name="Age_Hint">Type your Age</string>
+</resources>
